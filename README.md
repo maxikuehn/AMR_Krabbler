@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1>Vierbeiniger Krabbler</h1>
+<h1>Technische Optimierungen am vierbeinigen Krabbler</h1>
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio)
@@ -13,6 +13,7 @@
 
 
 <h3>Autonome Mobile Roboter - SS 2024</h3>
+<h4>Maximilian Kühn</h4>
 
 <img src="assets/krabbler.jpeg" alt="Krabbler" style="max-width:600px;width:100%">
 
